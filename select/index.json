@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "恋標",
   "base_artist": "Penthouse",
-  "createdAt": "2026-04-02T14:07:23.649877Z",
+  "createdAt": "2026-04-02T14:09:44.603146Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "Penthouse",
       "has_synced": false,
       "path": "select/pl_01_恋標_Penthouse.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "恋標",
+      "artist": "Penthouse",
+      "has_synced": true,
+      "path": "select/localdb_01_恋標_Penthouse.lrc",
+      "repo_name": "BeL6OGaguxE"
     }
   ]
 }
